@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213882970091",
+    "project_id": "flutterbase-2a772",
+    "storage_bucket": "flutterbase-2a772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213882970091:android:447d27bf5f0c97e53603ae",
+        "android_client_info": {
+          "package_name": "com.example.photomanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213882970091-j02otdrbpjinu3e1gcn8qjb7qn9iuanb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADJl9v01g6_0K3neT7J-YnAY0KCG0GaEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213882970091-j02otdrbpjinu3e1gcn8qjb7qn9iuanb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
